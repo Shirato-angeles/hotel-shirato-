@@ -89,6 +89,21 @@ button{
     overflow: hidden;
 }
 
+.loginbtn{
+    width: 100px;
+    padding: 15px 0;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 1px solid #009688;
+    background: transparent;
+    color: #fff;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+
 span{
     background: #009688;
     height: 100%;
